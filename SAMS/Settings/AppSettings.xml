@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings> 
+  <!--<Server>(local)</Server>
+  <DBName>IDL</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>sa1234</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>-->
+
+
+  <Server>DESKTOP-9U8QBGM</Server>
+   <DBName>IDL</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+</AppSettings>

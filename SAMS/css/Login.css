@@ -1,0 +1,61 @@
+﻿
+   #main 
+   {
+	position:relative;
+	width:565px;
+}
+#boxbody {
+	float:left;
+	width:565px;
+	padding:69px 0px 130px 0px;	
+	margin-left:80px;
+	margin-top:30px;
+	background-image:url(../images/login-green-without-company.png);
+	background-repeat:no-repeat;
+	background-position:top;
+}
+#boxbody div {
+	margin:5px 0px 0px 32px;/*background-color:#CCC;*/
+}
+#boxbody div input {
+	width:235px;
+	padding:9px 5px;
+	border:0px;
+	background-color:transparent;
+	font-weight:bold;/*background-color:#CCC;*/
+}
+#Products_select input {
+	cursor:pointer;
+}
+#boxbody div#selectCityDrop {
+	display:none;
+	position:absolute;
+	z-index:3;
+	width:243px;
+	margin-top:0px;
+	margin-left:0px;
+	_margin-left:-1px;
+	border-left:1px solid #dcdcdc;
+	border-right:1px solid #dcdcdc;
+	border-bottom:1px solid #dcdcdc;
+	background-color: #FFF;
+}
+#selectCityDrop ul {
+	margin:0px;
+	padding:5px 0px;
+}
+#selectCityDrop ul li {
+	margin:0px;
+	padding:3px 5px;
+	cursor:pointer;
+	list-style:none;
+}
+#boxbody div input.tb_signin {
+	width:100px;
+	margin-left:144px;
+	background-color:transparent;
+	cursor:pointer;
+	border:0px solid red;
+}
+
+
